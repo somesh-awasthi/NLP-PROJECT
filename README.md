@@ -18,6 +18,8 @@ Setup
 1. Python Virtual Environment: Set up a Python virtual environment for managing project dependencies.
 python -m venv env
 2. Activate Virtual Environment: Activate the virtual environment.
-.\env\Scripts\activate
+venv\Scripts\activate
 3. Install Dependencies: Install required Python dependencies using pip.
 pip install numpy pandas scikit-learn jupyterlab
+4. Install all the necessary requirements 
+pip install -r requirements.txt
