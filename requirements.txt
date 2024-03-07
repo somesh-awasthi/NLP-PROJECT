@@ -1,0 +1,4 @@
+ctransformers==0.2.27
+sentence-transformers==2.5.1
+chromadb==0.4.24
+langchain==0.1.11
