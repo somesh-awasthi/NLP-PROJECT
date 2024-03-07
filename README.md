@@ -23,3 +23,6 @@ venv\Scripts\activate
 pip install numpy pandas scikit-learn jupyterlab
 4. Install all the necessary requirements 
 pip install -r requirements.txt
+5. for embedding I'm using Hugging Face Embeddings
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+model_name="sentence-transformers/all-MiniLM-L6-v2"
