@@ -1,2 +1,8 @@
 venv/
 data/
+chroma_db-v(Harrison-mehta)-20240503T064305Z-001.zip
+chroma_db-v1/
+chroma_db-v2/
+chroma_db/
+.env
+.vscode/
